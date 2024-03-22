@@ -20,4 +20,4 @@ jobs:
           cache: "npm"
       - run: npm install --global yarn
       - run: yarn install --frozen-lockfile
-      - run: yarn run dev
+      - run: pm2 start npm -- dev
