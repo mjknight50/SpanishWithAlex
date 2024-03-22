@@ -1,0 +1,10 @@
+/* styles.module.css */
+.hoverRed {
+    color: white;
+    /* Establece el color en estado normal a blanco */
+}
+
+.hoverRed:hover {
+    color: red;
+    /* Cambia el color a rojo en hover */
+}

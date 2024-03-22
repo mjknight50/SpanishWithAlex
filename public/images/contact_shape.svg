@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="contact_shape" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 473 758.1" style="enable-background:new 0 0 473 758.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Ellipse_1_copy_4_00000087389987885572450190000007954458494733675962_);}
+	.st1{display:none;fill:url(#Ellipse_1_copy_4-2_00000106144533770671561450000015325545418199497633_);}
+</style>
+<radialGradient id="Ellipse_1_copy_4_00000111149412492065649660000012907948415448573569_" cx="88" cy="370" r="273.5003" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFA800"/>
+	<stop  offset="0.8223" style="stop-color:#F8180E"/>
+</radialGradient>
+<path id="Ellipse_1_copy_4" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#Ellipse_1_copy_4_00000111149412492065649660000012907948415448573569_);" d="
+	M196.5,188C102.9,171.8,23,95.3-18.7,187.2C-75,311.4-95.7,520,59.7,553.6C250.8,594.9,467.7,235,196.5,188z"/>
+<radialGradient id="Ellipse_1_copy_4-2_00000138544636542262639300000009708211157032948669_" cx="94" cy="380.97" r="379.031" gradientTransform="matrix(1 0 0 -1 0 760)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFA800"/>
+	<stop  offset="1" style="stop-color:#F8180E;stop-opacity:0"/>
+</radialGradient>
+<circle id="Ellipse_1_copy_4-2" style="display:none;fill:url(#Ellipse_1_copy_4-2_00000138544636542262639300000009708211157032948669_);" cx="94" cy="379" r="379"/>
+</svg>

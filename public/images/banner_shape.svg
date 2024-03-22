@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="banner_shape" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 822.5 862.2" style="enable-background:new 0 0 822.5 862.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Ellipse_1_copy_4_00000150816803776028470020000010152961029929886616_);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Ellipse_1_copy_5_00000153700504546424740280000008171405651277685648_);}
+</style>
+<radialGradient id="SVGID_1_" cx="435" cy="319" r="378.1323" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFA800"/>
+	<stop  offset="0.8223" style="stop-color:#F8180E"/>
+</radialGradient>
+<path class="st0" d="M453.8,862.2c196.4,0,534.2-91.8,274.1-360C536.3,304.6,579.3,173.4,458.1,188.7
+	c-219.5,27.7-177.9,219.2-296.4,292.6C-77.7,629.5,149.2,862.2,453.8,862.2z"/>
+<radialGradient id="Ellipse_1_copy_4_00000088834637759028709530000008135275722665959321_" cx="165" cy="319" r="65.5134" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFA800"/>
+	<stop  offset="0.8223" style="stop-color:#F8180E"/>
+</radialGradient>
+<path id="Ellipse_1_copy_4" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#Ellipse_1_copy_4_00000088834637759028709530000008135275722665959321_);" d="
+	M183.9,412.6c-50.4,78.2-221.7,4.1-41.8-115.4C210.1,252.1,231.2,339.4,183.9,412.6z"/>
+<radialGradient id="Ellipse_1_copy_5_00000113320596056981938480000005594400041909126308_" cx="675" cy="313" r="67.2012" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFA800"/>
+	<stop  offset="0.8223" style="stop-color:#F8180E"/>
+</radialGradient>
+<path id="Ellipse_1_copy_5" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#Ellipse_1_copy_5_00000113320596056981938480000005594400041909126308_);" d="
+	M725,314c148,167.2-37.4,166.6-82.3-13.4C628,241.5,681.4,264.7,725,314z"/>
+</svg>

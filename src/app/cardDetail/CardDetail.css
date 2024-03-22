@@ -1,0 +1,7 @@
+.tarjeta-imagen {
+    transition: filter 0.3s ease-in-out;
+}
+
+.tarjeta-imagen:hover {
+    filter: brightness(0.5);
+}
